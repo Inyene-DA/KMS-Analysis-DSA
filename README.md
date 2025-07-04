@@ -2,7 +2,7 @@
 This SQL project was undertaken to explore and analyze the KMS dataset to uncover negative trends which resulted in negative sales and boost profit opportunities.
 
 # Project Overview
-- This project is targetted at answering key business related questions as regards the dataset in other to increase customer and sales prfitability.
+- This project is targetted at answering key business related questions as regards the dataset in other to increase customer and sales profitability.
 - The Project uncovers just how much is needed to meet customers satisfaction across various Customer Segment and Product need while in business with the findings.The Datasets used included records such as; Order ID, Customer Name, Shipping Cost, Order Date, Province, Product Category, Product Name, Order Quantity, sales, profit, and Order Status.
 
 # Main Highlights Explored
