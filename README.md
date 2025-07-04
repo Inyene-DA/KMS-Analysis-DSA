@@ -1,4 +1,4 @@
-# KMS-Analysis-DSA
+# KMS-Analysis-Using-SSMS
 This SQL project was undertaken to explore and analyze the KMS dataset to uncover negative trends which resulted in negative sales and boost profit opportunities.
 
 # Project Overview
